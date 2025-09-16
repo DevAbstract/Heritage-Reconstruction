@@ -20,8 +20,8 @@ import torch, os
 #     filetypes=[("Image files", "*.png;*.jpg;*.jpeg;*.bmp;*.tiff")]
 # )
 
-image_path = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/simple-lama-inpainting/dataset/dome.png"
-mask_path  = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/simple-lama-inpainting/dataset/mask.png"
+image_path = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/sd-inpainting/dataset/dome.png"
+mask_path  = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/sd-inpainting/dataset/mask.png"
 # output_path = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/sd-inpainting/outputs/sd_output8.png"
 
 output_dir = "/Users/gauravdevpandey/Projects/Heritage-Reconstruction/sd-inpainting/outputs"
